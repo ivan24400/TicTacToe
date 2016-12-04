@@ -1,3 +1,7 @@
+/*
+* TicTacToe
+*/
+
 package com.tictactoe;
 
 import java.awt.BorderLayout;
